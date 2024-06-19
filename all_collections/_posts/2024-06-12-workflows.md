@@ -6,5 +6,5 @@ categories: [workflow, softwares]
 ---
 
 
-![MS workflow](/assets/img/MS_workflow.png)
-![NMR workflow](/assets/img/NMR_workflow.png)
+![MS workflow](https://raw.githubusercontent.com/erifa1/testsite/main/assets/img/MS_workflow.png)
+![NMR workflow](https://raw.githubusercontent.com/erifa1/testsite/main/assets/img/NMR_workflow.png)
