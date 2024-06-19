@@ -1,10 +1,10 @@
-title: BSI platform
+title: E-Metatoul software & actions
 markdown: kramdown
 
 # for atom feed
 author:
-  name: BSI platform
-  email: BSIplatform@outlook.com
+  name: e-metatoul
+  #email: dev_sharad@outlook.com
 
 plugins:
   - jemoji
@@ -16,6 +16,7 @@ collections_dir: all_collections
 collections:
   posts:
     output: true
+    future: true
 
 defaults:
   - scope:
@@ -23,4 +24,11 @@ defaults:
     values:
       layout: "post"
       permalink: /posts/:title/
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]

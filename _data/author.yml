@@ -1,18 +1,21 @@
-name: BSI platform
-dp: https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4
+name: bsi
+dp: /assets/img/icone_metatoul.png
 description: "
   <p>
-    BSI platform is a platform for sharing knowledge and experience in the field of software development.
+    E-Metatoul group is a group of software developers and data scientists who are passionate about creating software and data science solutions.
   </p>
   <br/>
   <p>
-    All ressources available : <a href='https://github.com/' target='_blank'>Github</a>
+    Page: <a href='https://github.com/' target='_blank'>Github</a>
   </P>
 "
-email: bsipl&tform@outlook.com
+email: BSI@outlook.com
 contact:
   - title: linkedin
-    url: https://www.linkedin.com/in/srsmaurya
+    url: https://www.linkedin.com/in/
   - title: github
-    url: https://github.com/sharadcodes
-
+    url: https://github.com/
+  - title: twitter
+    url: https://twitter.com/
+  - title: email
+    url: mailto:BSI@outlook.com
